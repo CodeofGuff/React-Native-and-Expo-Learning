@@ -2,4 +2,4 @@ Native Rendering:
 React: The React-like JavaScript code developers write for their React Native apps
 JS Thread: The app code is converted into a single JS bundle or file. React Native executes this code in a special thread to determine what it needs to render or invoke.
 UI Thread: This thread receives actions to run natively. It can include rendering native components, like a <Button />. It can also return data, requested by the JS thread, like sensor data.
-Native: The native operating system actually renders the native component for a <Button /> on the phone.
+Native: The native operating system actually renders the native component for a <Button /> on the phone
